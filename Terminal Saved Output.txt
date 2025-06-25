@@ -1,0 +1,506 @@
+o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [Restored 23 Jun 2025 at 12:40:00 AM]
+Last login: Mon Jun 23 00:39:52 on console
+Restored session: Mon Jun 23 00:38:56 CST 2025
+santiagotellier@Santiagos-MacBook-Pro fracta.city % 
+santiagotellier@Santiagos-MacBook-Pro fracta.city % clear
+
+santiagotellier@Santiagos-MacBook-Pro fracta.city % bun dev
+$ vite
+
+  VITE v5.0.8  ready in 580 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+o
+^C
+santiagotellier@Santiagos-MacBook-Pro fracta.city % bun dev
+$ vite
+
+  VITE v5.0.8  ready in 431 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+^C
+santiagotellier@Santiagos-MacBook-Pro fracta.city % 
+santiagotellier@Santiagos-MacBook-Pro fracta.city % 
+santiagotellier@Santiagos-MacBook-Pro fracta.city % pwd
+/Users/santiagotellier/Documents/ttw/fracta.city
+santiagotellier@Santiagos-MacBook-Pro fracta.city % bun dev
+$ vite
+
+  VITE v5.0.8  ready in 663 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+o
+6:44:54 PM [vite] .env changed, restarting server...
+6:44:54 PM [vite] server restarted.
+^C
+santiagotellier@Santiagos-MacBook-Pro fracta.city % cd ..
+santiagotellier@Santiagos-MacBook-Pro ttw % ls
+citadelle.city	fracta.city
+santiagotellier@Santiagos-MacBook-Pro ttw % cd ..
+santiagotellier@Santiagos-MacBook-Pro Documents % ls
+BITCOIN_MINING_HUB_1.png			SOLICITUD PRESTAMO SODEF-1 copy 2.pdf		Screenshot 2024-10-23 at 8.17.08 PM.png		Screenshot 2025-04-05 at 5.52.33 PM.png		Screenshot 2025-06-14 at 8.48.15 PM.png
+BITCOIN_MINING_HUB_2.png			SOLICITUD PRESTAMO SODEF-1 copy.pdf		Screenshot 2024-10-23 at 8.17.27 PM.png		Screenshot 2025-04-05 at 6.08.00 PM.png		Screenshot 2025-06-19 at 5.33.42 PM.png
+BITCOIN_MINING_HUB_3.png			Screenshot 2024-10-23 at 8.12.01 PM.png		Screenshot 2024-10-23 at 8.17.43 PM.png		Screenshot 2025-04-11 at 8.49.08 PM.png		Screenshot 2025-06-19 at 5.34.06 PM.png
+DUNA_RESIDENCES_703.png				Screenshot 2024-10-23 at 8.12.24 PM.png		Screenshot 2024-10-23 at 8.41.29 PM.png		Screenshot 2025-04-12 at 11.03.57 AM.png	Screenshot 2025-06-19 at 5.35.50 PM.png
+FOUNDER_HAUS.png				Screenshot 2024-10-23 at 8.12.40 PM.png		Screenshot 2024-10-23 at 8.41.56 PM.png		Screenshot 2025-06-14 at 8.43.55 PM.png		Screenshot 2025-06-22 at 2.24.28 PM.png
+Human Enhancement				Screenshot 2024-10-23 at 8.13.54 PM.png		Screenshot 2024-10-23 at 8.46.45 PM.png		Screenshot 2025-06-14 at 8.45.58 PM.png		Tixta OG.md
+NOMAD_HOMES_2.png				Screenshot 2024-10-23 at 8.14.12 PM.png		Screenshot 2024-10-23 at 8.47.06 PM.png		Screenshot 2025-06-14 at 8.46.12 PM.png		fractalogo.png
+PB_1111_1.png					Screenshot 2024-10-23 at 8.14.28 PM.png		Screenshot 2024-10-23 at 8.54.37 PM.png		Screenshot 2025-06-14 at 8.46.38 PM.png		honduras-vote
+PB_1208_1.png					Screenshot 2024-10-23 at 8.14.48 PM.png		Screenshot 2025-02-24 at 2.12.41 PM.png		Screenshot 2025-06-14 at 8.46.53 PM.png		netqcheck.cfg
+PB_1208_2.png					Screenshot 2024-10-23 at 8.15.10 PM.png		Screenshot 2025-04-03 at 3.33.44 PM.png		Screenshot 2025-06-14 at 8.47.11 PM.png		ttw
+Pics						Screenshot 2024-10-23 at 8.15.49 PM.png		Screenshot 2025-04-03 at 3.35.34 PM.png		Screenshot 2025-06-14 at 8.47.27 PM.png
+RUA_DOS_MANDIS.png				Screenshot 2024-10-23 at 8.16.17 PM.png		Screenshot 2025-04-03 at 4.16.59 PM.png		Screenshot 2025-06-14 at 8.47.45 PM.png
+RUA_DOS_MANDIS_1.png				Screenshot 2024-10-23 at 8.16.46 PM.png		Screenshot 2025-04-05 at 5.51.23 PM.png		Screenshot 2025-06-14 at 8.47.59 PM.png
+santiagotellier@Santiagos-MacBook-Pro Documents % cd honduras-vote 
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % bun dev
+$ next dev
+   ▲ Next.js 15.3.4
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.3:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 4.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 27.3s (10580 modules)
+ GET / 200 in 29965ms
+ ✓ Compiled in 3.4s (5119 modules)
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 6.5s (5476 modules)
+ GET /favicon.ico 200 in 8172ms
+ HEAD / 200 in 5936ms
+ GET /favicon.ico 200 in 14ms
+ ○ Compiling /kyc ...
+ ✓ Compiled /results in 11.6s (10613 modules)
+ GET /kyc 200 in 12641ms
+ GET /results 200 in 7008ms
+ GET /kyc 200 in 96ms
+ GET /results 200 in 88ms
+ GET /favicon.ico 200 in 157ms
+^C
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % cursor . 
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % bun dev
+$ next dev
+   ▲ Next.js 15.3.4
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.3:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 3.9s
+ ○ Compiling /results ...
+ ✓ Compiled /results in 28.2s (10523 modules)
+ GET /results 200 in 30625ms
+ ✓ Compiled in 3.3s (5112 modules)
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 4.9s (5426 modules)
+ GET /favicon.ico 200 in 6395ms
+ HEAD /results 200 in 2616ms
+ GET /favicon.ico 200 in 29ms
+ GET /favicon.ico 200 in 22ms
+ GET /results 200 in 102ms
+ GET /favicon.ico 200 in 28ms
+ GET /favicon.ico 200 in 13ms
+ HEAD /results 200 in 98ms
+ ○ Compiling / ...
+ ✓ Compiled / in 6.7s (10583 modules)
+ GET / 200 in 6923ms
+ ○ Compiling /kyc ...
+ ✓ Compiled /kyc in 10s (10598 modules)
+ GET /kyc 200 in 10232ms
+ GET /results 200 in 4081ms
+ GET /kyc 200 in 44ms
+ GET /kyc 200 in 41ms
+ GET /kyc 200 in 48ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1661ms (5495 modules)
+ GET /favicon.ico 200 in 1834ms
+ ✓ Compiled in 2.9s (10631 modules)
+ GET /kyc 200 in 161ms
+ ✓ Compiled in 2.7s (10616 modules)
+ GET /kyc 200 in 226ms
+ ✓ Compiled in 2.5s (10616 modules)
+ GET /kyc 200 in 67ms
+ ✓ Compiled in 6.1s (10618 modules)
+ GET /kyc 200 in 218ms
+ GET / 200 in 28ms
+ GET /kyc 200 in 16ms
+ GET / 200 in 13ms
+ GET /results 200 in 30ms
+ GET / 200 in 11ms
+ GET /kyc 200 in 24ms
+ GET / 200 in 13ms
+ GET /kyc 200 in 17ms
+ GET / 200 in 12ms
+ ✓ Compiled in 5.6s (10622 modules)
+ GET / 200 in 152ms
+ GET /kyc 200 in 72ms
+ GET / 200 in 2266ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 10s (5500 modules)
+ GET /favicon.ico 200 in 10765ms
+ GET /favicon.ico 200 in 29ms
+ GET / 200 in 3798ms
+ GET /favicon.ico 200 in 24ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 5ms
+ GET /favicon.ico 200 in 6ms
+ HEAD / 200 in 227ms
+ GET /results 200 in 108ms
+ GET /kyc 200 in 39ms
+ GET /kyc 200 in 201ms
+ GET / 200 in 313ms
+ GET /favicon.ico 200 in 37ms
+ HEAD / 200 in 90ms
+^C
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % npm run build
+
+
+> honduras-vote@0.1.0 build
+> next build
+
+   ▲ Next.js 15.3.4
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 52s
+   Linting and checking validity of types  ..Failed to compile.
+
+./src/lib/semaphore.ts:11:29
+Type error: Type 'import("/Users/santiagotellier/Documents/honduras-vote/node_modules/@ethersproject/bignumber/lib/bignumber").BigNumber' is not assignable to type 'import("/Users/santiagotellier/Documents/honduras-vote/node_modules/@zk-kit/utils/dist/index").BigNumber'.
+
+   9 |
+  10 |   constructor() {
+> 11 |     this.group = new Group([BigNumber.from(1)]); // Group ID 1 as BigNumber
+     |                             ^
+  12 |   }
+  13 |
+  14 |   generateIdentity(): Identity {
+Next.js build worker exited with code: 1 and signal: null
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % npm run build
+
+> honduras-vote@0.1.0 build
+> next build
+
+   ▲ Next.js 15.3.4
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 15.0s
+ ✓ Linting and checking validity of types    
+ ✓ Collecting page data    
+ReferenceError: location is not defined
+    at v (.next/server/app/kyc/page.js:1:5079)
+ReferenceError: location is not defined
+    at x (.next/server/app/vote/page.js:1:6877)
+ ✓ Generating static pages (8/8)
+ ✓ Collecting build traces    
+ ✓ Exporting (3/3)
+ ✓ Finalizing page optimization 
+
+Route (app)                                 Size  First Load JS    
+┌ ○ /                                    7.83 kB         831 kB
+├ ○ /_not-found                            990 B         104 kB
+├ ○ /kyc                                  5.6 kB         829 kB
+├ ○ /results                                4 kB         827 kB
+└ ○ /vote                                4.27 kB         827 kB
++ First Load JS shared by all             103 kB
+  ├ chunks/1684-b8feb358d0ec61b7.js      46.3 kB
+  ├ chunks/4bd1b696-c6c353419029747e.js  53.2 kB
+  └ other shared chunks (total)          3.62 kB
+
+
+○  (Static)  prerendered as static content
+
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % git init
+git add .
+git commit -m "Initial commit for Votahn project"
+git branch -M main
+git remote add origin https://github.com/tu-usuario/honduras-vote.git
+git push -u origin main
+
+Reinitialized existing Git repository in /Users/santiagotellier/Documents/honduras-vote/.git/
+[main 8f99b6a] Initial commit for Votahn project
+ 21 files changed, 24644 insertions(+), 1445 deletions(-)
+ create mode 100644 bun.lock
+ create mode 100644 hardhat.config.ts
+ create mode 100644 public/images/bandera-honduras-svg.svg
+ create mode 100644 public/images/bandera-honduras.jpg
+ create mode 100644 src/app/kyc/page.tsx
+ create mode 100644 src/app/results/page.tsx
+ create mode 100644 src/app/vote/page.tsx
+ create mode 100644 src/contracts/HondurasVote.sol
+ create mode 100644 src/lib/auth.tsx
+ create mode 100644 src/lib/firebase.ts
+ create mode 100644 src/lib/semaphore.ts
+ create mode 100644 src/types/index.ts
+ create mode 100644 tailwind.config.ts
+Username for 'https://github.com': santiago.tellier7@gmail.com
+Password for 'https://santiago.tellier7@gmail.com@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/tu-usuario/honduras-vote.git/'
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % git init
+git add .
+git commit -m "Initial commit for votaHN project"
+git branch -M main
+git remote add origin https://github.com/stellier7/votahn.lat.git
+git push -u origin main
+
+Reinitialized existing Git repository in /Users/santiagotellier/Documents/honduras-vote/.git/
+On branch main
+nothing to commit, working tree clean
+error: remote origin already exists.
+Username for 'https://github.com': santiago.tellier7@gmail.com
+Password for 'https://santiago.tellier7@gmail.com@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/tu-usuario/honduras-vote.git/'
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % brew install gh
+
+==> Auto-updating Homebrew...
+Adjust how often this is run with HOMEBREW_AUTO_UPDATE_SECS or disable with
+HOMEBREW_NO_AUTO_UPDATE. Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+brew install gh
+==> Auto-updated Homebrew!
+Updated 2 taps (homebrew/core and homebrew/cask).
+==> New Formulae
+abpoa                btcli                desed                ghalint              kbt                  lzsa                 mongo-c-driver@1     osx-trash            qrkey                sprocket             tfmcp                urx
+act_runner           chawan               diagram              go-rice              kingfisher           mcp-inspector        moodle-dl            oterm                rnp                  sqruff               tiledb
+arp-scan-rs          clang-include-graph  dvisvgm              htmlhint             ldcli                mermaid-cli          mpremote             ovsx                 samply               stringtie            toml-bombadil
+benchi               claude-squad         eask-cli             jwt-hack             lolcrab              minify               nx                   plutovg              sherif               swift-section        tsnet-serve
+blueprint-compiler   credo                gerust               kargo                lunasvg              mlc                  onigmo               pulumictl            spice-server         tabixpp              tun2proxy
+==> New Casks
+accordance@13                       font-annotation-mono                font-charis                         font-parastoo                       longbridge-pro                      peninsula                           thebrowsercompany-dia
+aigcpanel                           font-bitcount-grid-double           font-gentium                        font-uoqmunthenkhung                macsyzones                          simpledemviewer                     tiny-shield
+alienator88-sentinel                font-bitcount-grid-single           font-gentium-book                   gg                                  music-presence                      slideshower                         tng-digital-mini-program-studio
+aloha-browser                       font-bitcount-prop-double           font-menbere                        insta360-link-controller            onlook                              swama                               vibemeter
+container                           font-bitcount-prop-single           font-nacelle                        linqpad                             pale-moon                           tartelet                            voicenotes
+firezone                            font-bitcount-single                font-noto-sans-sunuwar              little-snitch@nightly               passepartout                        textgrabber2                        yuanbao
+
+You have 1 outdated formula installed.
+
+==> Downloading https://ghcr.io/v2/homebrew/core/gh/manifests/2.74.2
+##################################################################################################################################################################################################################################################### 100.0%
+==> Fetching gh
+==> Downloading https://ghcr.io/v2/homebrew/core/gh/blobs/sha256:f3f8a873387da7e9087c2ce2e38ddcf9bdd8e5365033db59c10517972c741062
+##################################################################################################################################################################################################################################################### 100.0%
+==> Pouring gh--2.74.2.sonoma.bottle.tar.gz
+🍺  /usr/local/Cellar/gh/2.74.2: 214 files, 36.6MB
+==> Running `brew cleanup gh`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Caveats
+zsh completions have been installed to:
+  /usr/local/share/zsh/site-functions
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % brew install gh
+Warning: gh 2.74.2 is already installed and up-to-date.
+To reinstall 2.74.2, run:
+  brew reinstall gh
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % gh auth login  
+
+? Where do you use GitHub? GitHub.com
+? What is your preferred protocol for Git operations on this host? HTTPS
+? Authenticate Git with your GitHub credentials? Yes
+? How would you like to authenticate GitHub CLI? Login with a web browser
+
+! First copy your one-time code: B271-6BA2
+Press Enter to open https://github.com/login/device in your browser... 
+✓ Authentication complete.
+- gh config set -h github.com git_protocol https
+✓ Configured git protocol
+✓ Logged in as stellier7
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % git remote remove origin
+git remote add origin https://github.com/stellier7/votahn.lat.git
+
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % git push -u origin main
+
+To https://github.com/stellier7/votahn.lat.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/stellier7/votahn.lat.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % git pull origin main --rebase
+
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (3/3), 1.78 KiB | 363.00 KiB/s, done.
+From https://github.com/stellier7/votahn.lat
+ * branch            main       -> FETCH_HEAD
+ * [new branch]      main       -> origin/main
+Auto-merging .gitignore
+CONFLICT (add/add): Merge conflict in .gitignore
+error: could not apply b374f1f... Initial commit from Create Next App
+hint: Resolve all conflicts manually, mark them as resolved with
+hint: "git add/rm <conflicted_files>", then run "git rebase --continue".
+hint: You can instead skip this commit: run "git rebase --skip".
+hint: To abort and get back to the state before "git rebase", run "git rebase --abort".
+Could not apply b374f1f... Initial commit from Create Next App
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % git add .gitignore
+
+santiagotellier@Santiagos-MacBook-Pro honduras-vote % git rebase --continue
+
+hint: Waiting for your editor to close the file... 
+Initial commit from Create Next App
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto e18d0cd
+# Last command done (1 command done):
+#    pick b374f1f Initial commit from Create Next App
+# Next command to do (1 remaining command):
+#    pick 8f99b6a Initial commit for Votahn project
+# You are currently rebasing branch 'main' on 'e18d0cd'.
+#
+# Changes to be committed:
+#       modified:   .gitignore
+#       new file:   README.md
+#       new file:   next.config.ts
+#       new file:   package-lock.json
+#       new file:   package.json
+#       new file:   postcss.config.mjs
+#       new file:   public/file.svg
+#       new file:   public/globe.svg
+#       new file:   public/next.svg
+#       new file:   public/vercel.svg
+#       new file:   public/window.svg
+#       new file:   src/app/favicon.ico
+#       new file:   src/app/globals.css
+#       new file:   src/app/layout.tsx
+#       new file:   src/app/page.tsx
+#       new file:   tsconfig.json
+
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+~                                                                                                                                                                                                                                                           
+-- INSERT --
