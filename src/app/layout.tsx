@@ -8,6 +8,20 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Elecciones Honduras 2025 - Transparencia Electoral",
   description: "Sistema de votación blockchain transparente y seguro para las elecciones de Honduras 2025. Lucha contra el fraude electoral con tecnología de vanguardia.",
+  icons: {
+    icon: [
+      {
+        url: "/images/bandera-honduras-svg.svg",
+        type: "image/svg+xml",
+      },
+      {
+        url: "/favicon.ico",
+        type: "image/x-icon",
+      },
+    ],
+    shortcut: "/images/bandera-honduras-svg.svg",
+    apple: "/images/bandera-honduras-svg.svg",
+  },
 };
 
 export default function RootLayout({
