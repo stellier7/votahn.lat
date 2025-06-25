@@ -18,10 +18,6 @@ const nextConfig: NextConfig = {
     }
     return config;
   },
-  // Exclude hardhat config from build
-  experimental: {
-    excludeDefaultMomentLocales: false,
-  },
 };
 
 export default nextConfig;

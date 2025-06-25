@@ -5,6 +5,7 @@ artifacts/
 cache/
 typechain/
 typechain-types/
+contracts/
 
 # Development files
 .env.local
